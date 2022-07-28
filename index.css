@@ -1,0 +1,47 @@
+.a{
+
+    width: 400px;
+    height: 700px;
+    
+    margin: auto;
+    margin-top: 0px;
+    background-color: #fff;
+    box-shadow: 10px 13px 10px 10px  rgba(0, 0, 0, 0.582);
+}
+
+img{
+
+    width: 100px;
+    height: 100px;
+   
+    
+}
+
+.footer{
+
+    width: 100%;
+    line-height: 60px;
+    /* background-color: #20232a; */
+    background-color: skyblue;
+    display: flex;
+    margin-top: 170px;
+   
+    
+}
+
+.m_s{
+    width: 100%;
+    line-height: 60px;
+    /* background-color: #20232a; */
+    background-color: #fff;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.h3 {
+    padding: 7px;
+}
+
+h1{
+    padding: 7px;
+}
